@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khaled Abdelfattah</h1>
-<h3 align="center">Passionate Backend Developer & Software Engineer from Egypt 🇪🇬</h3>
+<p align="center">
+🎓 Computer Science Student | 💻 Aspiring Backend Developer & Software Engineer | ⚔️ Competitive Programmer
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Competitive+Programmer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
@@ -13,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Junior Student** in Computer Science from Assiut University
+- 🎓 **Computer Science Student** at Assiut University (3rd Year, Expected Graduation: 2027).
 - 💼 **Started Studieng** .NET Development & Backend Systems
 - 🧠 **Problem Solving Enthusiast** with strong algorithmic thinking
 - 👨‍🏫 **IT Mentor** - Trained 100+ students in programming
@@ -29,8 +32,14 @@
 
 ### **Databases & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+
 
 ### **Development Environment**
 <p align="center">
@@ -40,7 +49,7 @@
 ## 💡 Core Competencies
 
 - **Database Management**: SQL Server, MySQL
-- **Problem Solving**: Data Structures, Competitive Programming
+- **Problem Solving**: Data Structures and ALgorithms, Competitive Programming
 - **Software Architecture**: Design Patterns, OOP
 - **Version Control**: Git, GitHub
 - **Project Management**: Team Worker & Mentoring
