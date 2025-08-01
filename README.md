@@ -29,7 +29,8 @@
 
 ### **Development Environment**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,codeblocks" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Code::Blocks_Logo.png" alt="Code::Blocks" height="48px" />
 </p>
 
 ## 🌐 Connect With Me
