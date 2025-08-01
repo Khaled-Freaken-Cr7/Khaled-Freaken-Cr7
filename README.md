@@ -13,8 +13,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **Junior student** in Computer Science from Assiut University
-- 💼 **Started studieng** .NET Development & Backend Systems
+- 🎓 **Junior Student** in Computer Science from Assiut University
+- 💼 **Started Studieng** .NET Development & Backend Systems
 - 🧠 **Problem Solving Enthusiast** with strong algorithmic thinking
 - 👨‍🏫 **IT Mentor** - Trained 100+ students in programming
 - 📝 I regularly share insights on [LinkedIn]((https://www.linkedin.com/in/khaled-abdulfattah-hefzy/))
@@ -22,7 +22,15 @@
 - 📫 Reach me at **khassaan779@gmail.com**
 - ⚡ Fun fact: **I never give up on challenging problems!**
 
+### **Programming Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,c" />
+</p>
 
+### **Development Environment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,powershell" />
+</p>
 
 ## 🌐 Connect With Me
 
@@ -34,3 +42,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khaled-Freaken-Cr7&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<h3 align="center">💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
