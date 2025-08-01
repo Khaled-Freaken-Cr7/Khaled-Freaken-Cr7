@@ -42,22 +42,11 @@
 
 ## 📊 GitHub Statistics
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Khaled-Freaken-Cr7&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="right">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Freaken-Cr7&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats-black301.vercel.app/api?username=Khaled-Freaken-Cr7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&cache_seconds=86400" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-black301.vercel.app/api/top-langs?username=Khaled-Freaken-Cr7 &locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=highcontrast&hide_border=false&cache_seconds=86400" height="150" alt="languages graph" />
+</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Freaken-Cr7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -67,6 +56,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Freaken-Cr7&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" alt="3D Contribution Graph" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Khaled-Freaken-Cr7/Khaled-Freaken-Cr7/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Connect With Me
 
