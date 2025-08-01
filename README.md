@@ -30,8 +30,43 @@
 ### **Development Environment**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Code::Blocks_Logo.png" alt="Code::Blocks" height="48px" />
 </p>
+
+## 💡 Core Competencies
+
+- **Database Management**: SQL Server, MySQL
+- **Problem Solving**: Data Structures, Competitive Programming
+- **Software Architecture**: Design Patterns, OOP
+- **Version Control**: Git, GitHub
+- **Project Management**: Team Worker & Mentoring
+
+## 📊 GitHub Statistics
+
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Khaled-Freaken-Cr7&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="right">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Khaled-Freaken-Cr7&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Freaken-Cr7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<!-- 3D Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Freaken-Cr7&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Code%20Journey%20-%20Every%20Commit%20Tells%20a%20Story" alt="3D Contribution Graph" />
+</div>
 
 ## 🌐 Connect With Me
 
