@@ -83,4 +83,12 @@
   <img src="https://komarev.com/ghpvc/?username=Khaled-Freaken-Cr7&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-<h3 align="center">💻 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+### ✍️ Classic Dev Quote
+> *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*  
+> — **Phil Karlton (with a developer twist)**
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ProfThorfinn&icon=2&color=0)](https://visitcount.itsvg.in)
+
+
