@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Freaken-Cr7&theme=darkhub&row=2&column=9" alt="3bdalrhmanS3d" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Freaken-Cr7&theme=darkhub&row=2&column=9" alt="Khaled-Freaken-Cr7" />
   </a> 
 </p>
 
@@ -25,6 +25,11 @@
 ### **Programming Languages**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,c" />
+</p>
+
+### **Databases & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
 </p>
 
 ### **Development Environment**
