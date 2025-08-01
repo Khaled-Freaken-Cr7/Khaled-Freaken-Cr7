@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Khaled Abdelfattah</h1>
+<h3 align="center">Passionate Backend Developer & Software Engineer from Egypt 🇪🇬</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+</p>
 
 <!--
 **Khaled-Freaken-Cr7/Khaled-Freaken-Cr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
