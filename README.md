@@ -29,7 +29,7 @@
 
 ### **Development Environment**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,clion,powershell" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,codeblocks" />
 </p>
 
 ## 🌐 Connect With Me
