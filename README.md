@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Backend Developer & Software Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Competitive+Programmer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
