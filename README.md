@@ -8,6 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Developer;Competitive+Programmer;Problem+Solver;Software+Engineer" alt="Typing SVG" />
 </p>
 
+<!-- Fun Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khaled-Freaken-Cr7&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Khaled-Freaken-Cr7?label=Followers&style=flat-square&color=green" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/Khaled-Freaken-Cr7?affiliations=OWNER&style=flat-square&color=yellow" alt="GitHub Stars"/>
+</p>
+
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Khaled-Freaken-Cr7&theme=darkhub&row=2&column=9" alt="Khaled-Freaken-Cr7" />
@@ -25,12 +32,18 @@
 - 📫 Reach me at **khassaan779@gmail.com**
 - ⚡ Fun fact: **I never give up on challenging problems!**
 
-### **Programming Languages**
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,c" />
 </p>
 
-### **Databases & Tools**
+---
+
+## 🛢️ Databases & Dev Tools
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access" />
@@ -39,12 +52,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+---
 
-
-### **Development Environment**
+## 🛠️ Development Environments
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode" />
 </p>
+
+---
 
 ## 💡 Core Competencies
 
@@ -53,6 +68,8 @@
 - **Software Architecture**: Design Patterns, OOP
 - **Version Control**: Git, GitHub
 - **Project Management**: Team Worker & Mentoring
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -75,6 +92,20 @@
 
 <img src="https://raw.githubusercontent.com/Khaled-Freaken-Cr7/Khaled-Freaken-Cr7/output/snake.svg" alt="Snake animation" />
 
+---
+
+## 🏆 Coding Profiles
+<p align="center">
+  <a href="https://leetcode.com/u/Kh_Logan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Khaled_Abdelfattah" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -86,9 +117,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Khaled-Freaken-Cr7&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+---
 
 ### ✍️ Classic Dev Quote
 > *"There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors."*  
